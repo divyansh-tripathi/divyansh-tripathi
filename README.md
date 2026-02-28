@@ -1,4 +1,4 @@
-# Hi, I'm Victus 👋
+# Hi, I'm Divyansh 👋
 
 ## 👨‍💻 About Me
 - Frontend Developer
