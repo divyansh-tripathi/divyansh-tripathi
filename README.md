@@ -19,5 +19,5 @@
 - MERN Blog Platform (Learning)
 
 ## 📫 Contact Me
-- Email: your email
-- LinkedIn: your linkedin link
+- Email: divyanshtripathi204@gmail.com
+- LinkedIn: https://www.linkedin.com/in/divyansh-tripathi01
