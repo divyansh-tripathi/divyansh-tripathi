@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Victus 👋
 
-<!--
-**divyansh-tripathi/divyansh-tripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- Frontend Developer
+- Learning MERN Stack
+- Passionate about building modern web applications
+- Open to internship and job opportunities
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML, CSS, JavaScript
+- React.js
+- Tailwind CSS
+- Git & GitHub
+- Node.js (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Task Management System
+- React User Management App
+- MERN Blog Platform (Learning)
+
+## 📫 Contact Me
+- Email: your email
+- LinkedIn: your linkedin link
